@@ -8,8 +8,19 @@ Here is a screenshot showing the result of my project:
 ![Screenshot](./screenshots/chat.png)
 
 ## Description
-Provide details about the project here. What does it do? How does it work?
+# Chat Application (Server & Client)
 
+This project implements a simple **chat application** using **Java** that allows communication between a server and a client. The server listens for incoming connections, and the client can send messages to the server, which are then displayed in a GUI chat window.
+
+### Features:
+- Real-time chat between client and server.
+- Beautiful GUI using Java Swing components.
+- Supports sending and receiving messages.
+
+### Technologies Used:
+- **Java** for backend and GUI development.
+- **Java Swing** for creating the chat interface.
+- **Java Networking** for socket communication.
 ## Installation
 To run this project, follow these steps:
 
