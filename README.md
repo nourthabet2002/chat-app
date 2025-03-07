@@ -5,7 +5,7 @@ This is a description of my project.
 ## Screenshot of My Work
 Here is a screenshot showing the result of my project:
 
-![Screenshot](./screenshots/chat.png)
+![Screenshot](./screenshots/app chat.png)
 
 ## Description
 # Chat Application (Server & Client)
